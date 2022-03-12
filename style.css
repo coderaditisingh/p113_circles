@@ -1,0 +1,24 @@
+label
+{
+color: rgb(120, 1, 167);
+font-size: large;
+}
+#heading
+{
+    margin-top: 10px;
+    background-color: rgb(215, 151, 251);
+    color: rgb(92, 2, 128);
+    height: 40px;
+    width: 100%;
+}
+button
+{
+    font-size: larger;
+    height: 50px;
+    width: 200px;
+    padding: 5px;
+    background-color: rgb(215, 151, 251);
+    color: rgb(92, 2, 128);
+    margin-right: 20px; 
+}
+
